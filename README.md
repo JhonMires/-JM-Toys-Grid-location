@@ -1,0 +1,4 @@
+- Grillas con documentos vinculados
+- Soporte grillas curvas
+- Parámetros personalizado
+- Configuración reporte de registro
