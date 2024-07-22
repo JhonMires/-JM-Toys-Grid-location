@@ -2,3 +2,4 @@
 - Soporte grillas curvas
 - Parámetros personalizado
 - Configuración reporte de registro
+- Soporte Revit 2024 y 2025
